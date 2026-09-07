@@ -12,8 +12,8 @@ The program checks if the inputted number is even or odd.
 - number
 
 ## Sample Output
-Enter a number: 67
-67 is odd.
+'Enter a number: 67
+67 is odd.'
 
 ## Author
 Name: Danielle Lakshmi L. Escleto
